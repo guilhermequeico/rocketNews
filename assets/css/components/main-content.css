@@ -1,0 +1,6 @@
+.main-content {
+    height: 100vh;
+    padding-left: calc((100% - 300px) / 2);
+    padding-right: calc((100% - 300px) / 2);
+    background-color: var(--body-bg-color);
+}
